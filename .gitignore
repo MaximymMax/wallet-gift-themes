@@ -1,0 +1,14 @@
+# videos and big binaries: attach to a GitHub Release or link them, do not commit
+*.mp4
+*.webm
+*.mov
+*.apk
+*.zip
+*.dex
+
+# tools / OS
+.DS_Store
+Thumbs.db
+__pycache__/
+.vscode/
+.idea/
