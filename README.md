@@ -17,7 +17,9 @@ Two ideas for the Telegram Wallet, both built as working prototypes:
 | [`web/`](web) | Browser demo of the card with gift stickers. No build step: open `web/index.html` |
 | [`docs/`](docs) | Design reference |
 
-Demo video: *add the link here (Release asset / YouTube).*
+![Concept](docs/concept-figma.png)
+
+Post with the demo video: https://t.me/NFTstyler/50
 
 ## Web demo
 
